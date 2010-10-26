@@ -1,10 +1,11 @@
 *.suo
 *.user
+*.cache
 
 */bin/
 */obj/
 */Obj/
 
-*/PDNLibs/*
+*/PDNLibs/
 
 Thumbs.db
