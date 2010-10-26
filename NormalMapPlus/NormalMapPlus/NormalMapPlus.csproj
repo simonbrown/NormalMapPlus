@@ -53,16 +53,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="PaintDotNet.Base">
-      <HintPath>C:\Program Files\Paint.NET3\PaintDotNet.Base.dll</HintPath>
+      <HintPath>PDNLibs/PaintDotNet.Base.dll</HintPath>
     </Reference>
     <Reference Include="PaintDotNet.Core">
-      <HintPath>C:\Program Files\Paint.NET3\PaintDotNet.Core.dll</HintPath>
+      <HintPath>PDNLibs/PaintDotNet.Core.dll</HintPath>
     </Reference>
     <Reference Include="PaintDotNet.Data">
-      <HintPath>C:\Program Files\Paint.NET3\PaintDotNet.Data.dll</HintPath>
+      <HintPath>PDNLibs/PaintDotNet.Data.dll</HintPath>
     </Reference>
     <Reference Include="PaintDotNet.Effects">
-      <HintPath>C:\Program Files\Paint.NET3\PaintDotNet.Effects.dll</HintPath>
+      <HintPath>PDNLibs/PaintDotNet.Effects.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
