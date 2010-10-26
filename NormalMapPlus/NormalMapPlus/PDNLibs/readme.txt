@@ -1,1 +1,1 @@
-Put the PDN libraries (e.g. PaintDotNet.Core.dll) in here before lauching the project. These won't (and shouldn't) be committed with the other files.
+Put the PDN libraries (PaintDotNet.Core.dll, PaintDotNet.Data.dll, PaintDotNet.Effects.dll, PaintDotNet.Base.dll) from Paint.NET v3.5.5 in here before lauching the project. These won't (and shouldn't) be committed with the other files.
