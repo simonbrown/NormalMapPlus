@@ -1,6 +1,8 @@
 *.suo
 *.user
 *.cache
+*.dll
+*.pdb
 
 */bin/
 */obj/
